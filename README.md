@@ -35,9 +35,11 @@ I should note there is a bit of hard coding in the indexing file. If you look at
 
 <a href="http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html">sketch-ddgd-ch1_a_Functions.js</a>
 
-Here, the links are operating via a 'localhost' 
+Here, the link is being executed via a 'localhost' setup where 'Data_Driven_Graphic_Design/' is the top-level subdirectory containing the files and structure noted above.  If you want to use the  index file with another setup up, then you'll probably use a global edit to replace 'localhost' with the appropriate server designation(s). Additionally, you can shift out the top-level subdirectory.  However, other changes to the structure are likely to be a little more onerous. For instance, changing the 'p5progs/', 'p5libs/' and 'data'/ subdirectory names would require a substantial change to all of the html files and in the case of the 'data' subdirectory to many of the sketches.
 
-If you want to use any of this code, remember to include the attribution (to the original authors). Also, my structure deviates from the standard p5.js sketch structure.  For example, in Github if you run across p5.js code you'll often see the generic labels 'sketch.js' and 'index.html' used. This is fine if you want to work with and run the sketches one at a time.  However, it's a royal  pain the 'behind' if you plan to work with a collection of sketches and associated html files (all called 'sketch.js' and 'index.html'). Additionally, if you run the the ported sketches you can save an image by simply typing 's' or 'S'.
+I should note that the structure I'm using deviates from the standard setup for p5.js code. Generally, individual sketches housed in separate directories that have descriptive names (e.g. ch01/functions/). In turn each subdirectory contains a single sketch and an associated html file. These files are titled 'sketch.js' and 'index.html', respectively. From my perspective, this is fine if you want to work a few files at a time. However, it you want to work with large collections of sketches, it makes it hard to distinguish one 'sketch.js' or 'index.html' from another.
+
+To the best of my knowledge the code that I have ported and will be porting is in the public domain. Feel free to use it.  However, to keep things kosher, it would be good if you acknowledged the original source and author(s).  
 
 In short order, I plan to 'fork' a number of the more interesting of these sketches to openprocessing.org.  These sketches can be found at:
  
