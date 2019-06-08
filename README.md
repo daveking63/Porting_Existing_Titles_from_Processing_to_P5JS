@@ -23,7 +23,7 @@ I don't expect the authors of these older titles to provide the port -- it's a t
 In this repository, there is one subdirectory for each title. Because of limits placed on the number of files in a subdirectory, each of these subdirectories contains a single zip file whose structure includes:
 
 <ul>
-<li><i>top level subdirectory<i> -- The name of this subdirectory is based on the associated book title (e.g. 'Data_Driven_Graphic_Design/').</li>
+<li><i>top level subdirectory</i> -- The name of this subdirectory is based on the associated book title (e.g. 'Data_Driven_Graphic_Design/').</li>
 <li><i>html files and an index file</i> -- There is one html file for each sketch. The html file delineates required libraries, as well as a link to a specific sketch name. Additionally, there is an index html file that provides links to all of the sketches associated with the book (via the html files).</li>
 <li><i>p5progs subdirectory</i> -- This subdirectory contains all of the sketches for a particular book title. The basic structure of the sketch name is 'sketch-<abbrev book title>-<chapter and section>_<short_description>.js'. The chapter and section designations depend on the specific book. For example, 'sketch-ddgd-ch4_e_AnimatingText.js' refers to the 4th chapter - section 'e' of Data Driven Graph Design. The sketch deals with animated text.</li>
 <li><i>p5libs subdirectory</i> -- These are the p5.js libraries used (collectively) by the sketches.</li>
@@ -33,7 +33,7 @@ In this repository, there is one subdirectory for each title. Because of limits 
 
 I should note there is a bit of hard coding in the indexing file. If you look at the index file you'll see links of the following sort:
 
-<a href="http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html">sketch-ddgd-ch1_a_Functions.js</a>
+\<a href="http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html"\>sketch-ddgd-ch1_a_Functions.js\</a\>
 
 Here, the link is being executed via a 'localhost' setup where 'Data_Driven_Graphic_Design/' is the top-level subdirectory containing the files and structure noted above.  If you want to use the  index file with another setup up, then you'll probably use a global edit to replace 'localhost' with the appropriate server designation(s). Additionally, you can shift out the top-level subdirectory.  However, other changes to the structure are likely to be a little more onerous. For instance, changing the 'p5progs/', 'p5libs/' and 'data'/ subdirectory names would require a substantial change to all of the html files and in the case of the 'data' subdirectory to many of the sketches.
 
