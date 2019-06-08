@@ -33,7 +33,7 @@ In this repository, there is one subdirectory for each title. Because of limits 
 
 I should note there is a bit of hard coding in the indexing file. If you look at the index file you'll see links of the following sort:
 
-\<a href="http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html"\>sketch-ddgd-ch1_a_Functions.js\</a\>
+\<a href="http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html">sketch-ddgd-ch1_a_Functions.js\</a>
 
 Here, the link is being executed via a 'localhost' setup where 'Data_Driven_Graphic_Design/' is the top-level subdirectory containing the files and structure noted above.  If you want to use the  index file with another setup up, then you'll probably use a global edit to replace 'localhost' with the appropriate server designation(s). Additionally, you can shift out the top-level subdirectory.  However, other changes to the structure are likely to be a little more onerous. For instance, changing the 'p5progs/', 'p5libs/' and 'data'/ subdirectory names would require a substantial change to all of the html files and in the case of the 'data' subdirectory to many of the sketches.
 
