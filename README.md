@@ -39,7 +39,7 @@ Here, the link is being executed via a 'localhost' setup where 'Data_Driven_Grap
 
 I should note that the structure I'm using deviates from the standard setup for p5.js code. Generally, individual sketches housed in separate directories that have descriptive names (e.g. ch01/functions/). In turn each subdirectory contains a single sketch and an associated html file. These files are titled 'sketch.js' and 'index.html', respectively. From my perspective, this is fine if you want to work a few files at a time. However, if you want to work with large collections of sketches, it makes it hard to distinguish one 'sketch.js' or 'index.html' from another.
 
-To the best of my knowledge the code that I have ported and will be porting is in the public domain. Feel free to use it.  However, to keep things kosher, it would be good if you acknowledged the original source and author(s).  
+To the best of my knowledge the code that I have ported and will be porting is in the public domain -- it's available for downloading and there are downloadable PDFs of the original text. However, if you use the ported code, it would still be good if you acknowledged the original source and author(s).  
 
 In short order, I plan to 'fork' a number of the more interesting of these sketches to openprocessing.org.  These sketches can be found at:
  
