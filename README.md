@@ -28,7 +28,7 @@ In this repository, there is one subdirectory for each title. Because of limits 
 <li><i>p5progs subdirectory</i> -- This subdirectory contains all of the sketches for a particular book title. The basic structure of the sketch name is 'sketch-<abbrev book title>-<chapter and section>_<short_description>.js'. The chapter and section designations depend on the specific book. For example, 'sketch-ddgd-ch4_e_AnimatingText.js' refers to the 4th chapter - section 'e' of Data Driven Graph Design. The sketch deals with animated text.</li>
 <li><i>p5libs subdirectory</i> -- These are the p5.js libraries used (collectively) by the sketches.</li>
 <li><i>data subdirectory</i> -- These are the data files or assets used collectively by the sketches.</li>
-<li><i>images subdirectory</i> -- These are screen shots produced individually from the sketches. If you want a different screen shot, then the output of a sketch can be saved by simply typing 's' or 'S'.</li>
+<li><i>tn_images subdirectory</i> -- These are thumbnails produced from the screen shots that are produced individually from the sketches. If you want a different screen shot, then the output of a sketch can be saved by simply typing 's' or 'S' after the sketch has been loaded.</li>
 </ul>
 
 I should note there is a bit of hard coding in the index file. If you look at the file, you'll see 'a href' links of the following sort:
