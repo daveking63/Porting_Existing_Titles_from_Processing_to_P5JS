@@ -31,7 +31,7 @@ In this repository, there is one subdirectory for each title. Because of limits 
 <li><i>tn_images subdirectory</i> -- These are thumbnails produced from the screen shots that are produced individually from the sketches. If you want a different screen shot, then the output of a sketch can be saved by simply typing 's' or 'S' after the sketch has been loaded.</li>
 </ul>
 
-I should note there is a bit of hard coding in the index file. If you look at the file, you'll see 'a href' links of the following sort:
+I should note there is a bit of 'hard coding' in the index file. If you look at the file, you'll see 'a href' links of the following sort:
 
 "http://localhost/Data_Driven_Graphic_Design/ddgd-sketch-ch1_a_Functions.html"
 
