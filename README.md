@@ -41,7 +41,7 @@ I should note that the structure I'm using deviates from the standard setup for 
 
 To the best of my knowledge the code that I have ported and will be porting is in the public domain -- it's available for downloading and there are downloadable PDFs of the original text. However, if you use the ported code, it would still be good if you acknowledged the original source and author(s).  
 
-In short order, I plan to 'fork' a number of the more interesting of these sketches to openprocessing.org.  These sketches can be found at:
+I've posted a number of the more interesting sketches to openprocessing.org.  These sketches can be found at:
  
 https://www.openprocessing.org/user/76475
 
