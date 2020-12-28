@@ -45,7 +45,7 @@ In short order, I plan to 'fork' a number of the more interesting of these sketc
  
 https://www.openprocessing.org/user/76475
 
-Finally,  I've included a list of the titles whose code I plan to (eventually) port. The list is contained in an Excel file and is based on the official list of Processing books from the Processing Foundation with a few additions.  However, I've added some additional info that may be of interest including where to find the current .pde codebases and PDF versions of the titles (many of which are free).
+Finally,  I've included an Excel file with a list of Processing books from the Processing Foundation with a few additions.  However, I've added some additional info that may be of interest including where to find the current .pde codebases and PDF versions of the titles (many of which are free).
 
 
 
