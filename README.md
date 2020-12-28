@@ -45,7 +45,9 @@ I've posted a number of the more interesting sketches to openprocessing.org.  Th
  
 https://www.openprocessing.org/user/76475
 
-Finally,  I've included an Excel file with a list of Processing books from the Processing Foundation with a few additions.  However, I've added some additional info that may be of interest including where to find the current .pde codebases and PDF versions of the titles (many of which are free).
+Finally,  I've included an Excel file with a list of Processing books from the Processing Foundation with a few additions.  However, I've added some additional info that may be of interest including where to find the current .pde codebases and PDF versions of the titles (many of which are free). A version of the file is also available as a Google Sheet on:
+
+https://docs.google.com/spreadsheets/d/1GiM2zbjBj454qI204zvDDHRIJIAybEOht4W7qG1mz7k/edit?usp=sharing
 
 
 
